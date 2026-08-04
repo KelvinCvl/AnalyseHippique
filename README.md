@@ -17,7 +17,7 @@ The raw data used in this project originates from a public Kaggle dataset. Due t
 ---
 
 ## 🛠️ Tech Stack
-* **Storage Engine:** SQL (PostgreSQL / MySQL) 
+* **Storage Engine:** SQL (MySQL) 
 * **Business Intelligence:** Power BI Desktop.
 * **Modeling Language:** Explicit DAX (Data Analysis Expressions).
 
